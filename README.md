@@ -1,4 +1,4 @@
-# wpf-01-03-03-vasarlas
+# wpf-01-04-03-vasarlas
 ## Grid nézet és data binding
 OOP technológiára alapozva fejlesszen ki egy olyan WPF alkalmazást, ahol a felhasználó megadhatja egy árúnak a nevét, egységárát, a vásárolt mennyiséget. 
 
